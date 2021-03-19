@@ -1,0 +1,1 @@
+https://learn.unity.com/project/c-scripting-in-unity-the-observer-pattern
